@@ -3,7 +3,7 @@ name: Huy Nguyen
 bio: Java fan, Spring enthusiast
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Java fan, Spring enthusiast
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://huytmb.com
 
-url: https://huytmb.com
+url: https://huytmb.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
